@@ -19,7 +19,7 @@ This project is a React Native mobile application developed during the Google De
 ## Screenshots
 
 ### Onboarding
-<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/19b46d3f-bea8-4b58-9fa3-13c6694ac2e9" alt="Onboard" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/870df9bd-1348-4d96-9fdd-f8dd7f51d62b" alt="Login" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/4bc2206c-9635-4a62-9b14-8600693e9de2" alt="Register" width="200" />
+<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/19b46d3f-bea8-4b58-9fa3-13c6694ac2e9" alt="Onboard" width="200" />&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/870df9bd-1348-4d96-9fdd-f8dd7f51d62b" alt="Login" width="200" />&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/4bc2206c-9635-4a62-9b14-8600693e9de2" alt="Register" width="200" />
 
 ------------
 
