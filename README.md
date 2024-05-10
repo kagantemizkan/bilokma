@@ -1,4 +1,11 @@
 ![Bi’Lokma](https://github.com/kagantemizkan/bilokma/assets/46727689/5e72a5dc-6dee-408e-9d65-52f8f5efadf8)
+## Hackathon Details
+
+- Event: Kocaeli Google Developer Student Community Hackathon
+- Duration: 24 hours
+- Place: [2nd Place](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf "2nd Place") 
+
+  
 ## Description
 
 This project is a React Native mobile application developed during the Google Developer Student Community Hackathon. It aims to reduce food waste by facilitating communication between bakeries and users who are interested in purchasing leftover items late at night.
@@ -20,12 +27,6 @@ This project is a React Native mobile application developed during the Google De
 
 - Kağan Temizkan - Developer
 - Deniz Ilgın Koca - Firebase Setup
-
-## Hackathon Details
-
-- Event: Kocaeli Google Developer Student Community Hackathon
-- Duration: 24 hours
-- Prize: 2nd Place
 
 ## Installation and Setup
 
