@@ -42,6 +42,7 @@ This project is a React Native mobile application developed during the Google De
 - Firebase
 - NativeWind
 - LottieFiles
+- Expo Blur View
 
 ## Team
 
