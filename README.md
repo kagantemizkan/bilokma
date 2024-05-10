@@ -1,79 +1,74 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![Bi’Lokma](https://github.com/kagantemizkan/bilokma/assets/46727689/5e72a5dc-6dee-408e-9d65-52f8f5efadf8)
+## Hackathon Details 🥈
 
-# Getting Started
+- Event: Kocaeli Google Developer Student Community Hackathon
+- Duration: 24 hours
+- Place: [2nd Place 🎉](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Start the Metro Server
+### About Project
+This project is a React Native mobile application developed during the Google Developer Student Community Hackathon. It aims to reduce food waste by facilitating communication between bakeries and users who are interested in purchasing leftover items late at night.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## Features
+- User authentication
+- Real-time notifications for available leftover items
+- Geolocation services to view bakery locations
+- Search functionality for specific items
 
-To start Metro, run the following command from the _root_ of your React Native project:
 
-```bash
-# using npm
-npm start
+## Screenshots
 
-# OR using Yarn
-yarn start
-```
+### Onboarding
+<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/19b46d3f-bea8-4b58-9fa3-13c6694ac2e9" alt="Onboard" width="200" />&nbsp;&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/870df9bd-1348-4d96-9fdd-f8dd7f51d62b" alt="Login" width="200" />&nbsp;&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/4bc2206c-9635-4a62-9b14-8600693e9de2" alt="Register" width="200" />
 
-## Step 2: Start your Application
+------------
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+### Home
+<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/ee586ca1-7720-41a4-8931-fc0b1de5e52a" alt="Home" width="200" />&nbsp;&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/bbdf7467-6df4-48d0-8668-10bc38b5c8f4" alt="Past Details" width="200" />
 
-### For Android
+------------
 
-```bash
-# using npm
-npm run android
+### Search
+<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/339ee989-4552-40ea-b99b-a5ff08b8b95a" alt="Search" width="200" />&nbsp;&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/ec424808-429f-4bd7-9289-c06bb55247ce" alt="Search Not Found" width="200" />
 
-# OR using Yarn
-yarn android
-```
+------------
 
-### For iOS
+### Settings
+<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/7747c1ad-5ab5-402b-af14-a7382762ab67" alt="Settings" width="200" />&nbsp;&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/c693a304-eafd-400f-9323-d418ac290fec" alt="User Details" width="200" />&nbsp;&nbsp;<img src="https://github.com/kagantemizkan/bilokma/assets/46727689/06193480-34b4-4a49-b663-580b67ad69ca" alt="Geolocation" width="200" />
 
-```bash
-# using npm
-npm run ios
+## Technologies Used
 
-# OR using Yarn
-yarn ios
-```
+- React Native
+- Firebase
+- NativeWind
+- LottieFiles
+- Expo Blur View
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+## Team
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+- Kağan Temizkan - Developer
+- Deniz Ilgın Koca - Firebase Setup
 
-## Step 3: Modifying your App
+## Installation and Setup
 
-Now that you have successfully run the app, let's modify it.
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Set up the envoriment (Xcode or Android Studio).
+4. Start the app using `npm run start`.
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
+## Contributing
 
-You've successfully run and modified your React Native App. :partying_face:
+We welcome contributions to improve this project. To contribute:
 
-### Now what?
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Create a new Pull Request.
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+## License
 
-# Troubleshooting
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kagantemizkan/bilokma/blob/main/LICENSE) file for details.
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
