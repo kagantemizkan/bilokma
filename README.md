@@ -3,7 +3,7 @@
 
 - Event: Kocaeli Google Developer Student Community Hackathon
 - Duration: 24 hours
-- Place: [2nd Place 🎉]([http://stackoverflow.com](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf))
+- Place: [2nd Place 🎉](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf)
 
 
 ### About Project
