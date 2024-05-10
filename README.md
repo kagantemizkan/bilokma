@@ -1,5 +1,4 @@
-![Bi’Lokma](https://github.com/kagantemizkan/bilokma/assets/46727689/2ab755e0-31c1-4a88-b475-584985d62d93)
-
+![Bi’Lokma](https://github.com/kagantemizkan/bilokma/assets/46727689/5e72a5dc-6dee-408e-9d65-52f8f5efadf8)
 ## Description
 
 This project is a React Native mobile application developed during the Google Developer Student Community Hackathon. It aims to reduce food waste by facilitating communication between bakeries and users who are interested in purchasing leftover items late at night.
