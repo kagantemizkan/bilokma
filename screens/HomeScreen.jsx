@@ -28,7 +28,7 @@ export default function HomeScreen() {
     const convertCoordinatesToCity = async (latitude, longitude) => {
       try {
         const response = await fetch(
-          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=AIzaSyC6zwA4XOjuWdvid1DT1rjdwWCg1TLcx14`
+          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${yourkeyhere}`
         );
         const data = await response.json();
         const parts = data.results[0].formatted_address.split('/');

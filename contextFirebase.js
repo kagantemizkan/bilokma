@@ -7,8 +7,6 @@ import notifee from '@notifee/react-native';
 
 export const AuthContext = createContext();
 
-
-
 export const AuthContextProvider = ({ children }) => {
 
   const [error, setError] = useState(false);
