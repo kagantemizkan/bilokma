@@ -40,17 +40,21 @@ This project is a React Native mobile application developed during the Google De
 
 
 ### Onboarding
-------------
 <img src="https://github.com/kagantemizkan/bilokma/assets/46727689/19b46d3f-bea8-4b58-9fa3-13c6694ac2e9" alt="Onboard" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/870df9bd-1348-4d96-9fdd-f8dd7f51d62b" alt="Login" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/4bc2206c-9635-4a62-9b14-8600693e9de2" alt="Register" width="200" />
 
+------------
+
 ### Home
-------------
 <img src="https://github.com/kagantemizkan/bilokma/assets/46727689/ee586ca1-7720-41a4-8931-fc0b1de5e52a" alt="Home" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/bbdf7467-6df4-48d0-8668-10bc38b5c8f4" alt="Past Details" width="200" />
+
+------------
+
 ### Search
-------------
 <img src="https://github.com/kagantemizkan/bilokma/assets/46727689/339ee989-4552-40ea-b99b-a5ff08b8b95a" alt="Search" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/ec424808-429f-4bd7-9289-c06bb55247ce" alt="Search Not Found" width="200" />
-### Settings
+
 ------------
+
+### Settings
 <img src="https://github.com/kagantemizkan/bilokma/assets/46727689/7747c1ad-5ab5-402b-af14-a7382762ab67" alt="Settings" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/c693a304-eafd-400f-9323-d418ac290fec" alt="User Details" width="200" /><img src="https://github.com/kagantemizkan/bilokma/assets/46727689/06193480-34b4-4a49-b663-580b67ad69ca" alt="Geolocation" width="200" />
 
 
