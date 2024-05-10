@@ -1,9 +1,9 @@
 ![Bi’Lokma](https://github.com/kagantemizkan/bilokma/assets/46727689/5e72a5dc-6dee-408e-9d65-52f8f5efadf8)
-## Hackathon Details
+## Hackathon Details 🥈
 
 - Event: Kocaeli Google Developer Student Community Hackathon
 - Duration: 24 hours
-- Place: [2nd Place](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf "2nd Place") 
+- Place: [2nd Place 🎉](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf "2nd Place") 
 
   
 ## Description
