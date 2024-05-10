@@ -4,6 +4,7 @@
 - Event: Kocaeli Google Developer Student Community Hackathon
 - Duration: 24 hours
 - Place: [2nd Place 🎉]([http://stackoverflow.com](https://new-portfolio-d6nt.vercel.app/gdsc_sertifika.pdf){:target="_blank" rel="noopener"})
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
 ### About Project
 This project is a React Native mobile application developed during the Google Developer Student Community Hackathon. It aims to reduce food waste by facilitating communication between bakeries and users who are interested in purchasing leftover items late at night.
