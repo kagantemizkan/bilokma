@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377273974754",
+    "project_id": "spicecode-a7065",
+    "storage_bucket": "spicecode-a7065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377273974754:android:9dd2a4f28ded7eba5fc3bb",
+        "android_client_info": {
+          "package_name": "com.bilokma3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMfiT68liZL1_B468p1_x3EgQ34yj2ZXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
