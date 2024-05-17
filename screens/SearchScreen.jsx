@@ -50,7 +50,7 @@ export default function SettingsScreen() {
   const FlatListComponent = ({ item }) => {
     return (
       <View className="mt-4 mx-7 border-b-[3px] pb-8 border-gray-300">
-        <View className="flex-row items-center">
+        <View  className="flex-row items-center">
           <Image
             source={{ uri: item.logo_url }}
             style={{ width: 50, height: 50, margin: 8 }}
@@ -82,7 +82,7 @@ export default function SettingsScreen() {
 
   return (
     <View style={{ flex: 1, backgroundColor: '#FFFFFF' }}>
-      <View>
+      <View style={{ marginTop: 32 }}>
         <Text style={{ fontFamily: 'ClashGrotesk-Semibold' }} className="text-[#fa5353] pl-7 text-5xl">Bi'Lokma</Text>
         <View style={{ marginBottom: 34, borderWidth: 2, flexDirection: 'row', alignItems: 'center', borderColor: '#C0C0C0', borderRadius: 20, backgroundColor: '#F4F4F4', marginHorizontal: 20, marginTop: 20 }}>
           <MaterialIcons name="search" size={28} style={{ marginLeft: 10, color: '#868686' }} />

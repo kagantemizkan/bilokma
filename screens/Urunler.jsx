@@ -48,7 +48,7 @@ export default function Urunler({ route }) {
         console.log("first: ", urunler)
         return (
             <>
-                <View className="flex flex-row w-auto">
+                <View style={{ marginTop: 32 }} className="flex flex-row w-auto">
                     <Pressable onPress={handleBack} className="flex flex-row items-center pr-5 ">
                         <Ionicons name="chevron-back" size={44} color="black" className="-ml-3" />
                         <Text style={{ fontFamily: "ClashGrotesk-Medium" }} className="text-3xl text-black -ml-1">Geri</Text>

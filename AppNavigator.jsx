@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createStackNavigator } from '@react-navigation/stack';
 import HomeScreen from './screens/HomeScreen';
 import SettingsScreen from './screens/SettingsScreen';
 import UserProfileInf from './screens/UserProfileInf';
@@ -16,7 +16,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import Urunler from './screens/Urunler';
 
 const Tab = createBottomTabNavigator();
-const Stack = createNativeStackNavigator();
+const Stack = createStackNavigator();
 
 function TabGroup() {
 
@@ -88,11 +88,11 @@ function StackGroup() {
             <Stack.Screen options={{ headerShown: false }} name="OnBoarding" component={OnboardScreen} />
             <Stack.Screen options={{ headerShown: false }} name="Login" component={LoginScreen} />
             <Stack.Screen options={{ headerShown: false }} name="Register" component={RegisterScreen} />
-            <Stack.Screen name="HomeTab" component={TabGroup} />
-            <Stack.Screen name="Urunler" component={Urunler} />
-            <Stack.Screen name="UserProfile" component={UserProfileInf} />
-            <Stack.Screen name="ResetPass" component={ResetPass} />
-            <Stack.Screen name="Support" component={Support} />
+            <Stack.Screen options={{ headerShown: false }} name="HomeTab" component={TabGroup} />
+            <Stack.Screen options={{ headerShown: false }} name="Urunler" component={Urunler} />
+            <Stack.Screen options={{ headerShown: false }} name="UserProfile" component={UserProfileInf} />
+            <Stack.Screen options={{ headerShown: false }} name="ResetPass" component={ResetPass} />
+            <Stack.Screen options={{ headerShown: false }} name="Support" component={Support} />
         </Stack.Navigator>
     );
 }

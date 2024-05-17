@@ -51,7 +51,7 @@ const RegisterScreen = () => {
           <TextInput
             placeholderTextColor={"#868686"}
             className="flex-1 color-black"
-            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6 }}
+            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6, color: "black" }}
             value={name}
             onChangeText={setName}
             placeholder="Ad"
@@ -65,7 +65,7 @@ const RegisterScreen = () => {
           <TextInput
             placeholderTextColor={"#868686"}
             className="flex-1 color-black"
-            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6 }}
+            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6, color: "black" }}
             value={surname}
             onChangeText={setSurname}
             placeholder="Soyad"
@@ -79,7 +79,7 @@ const RegisterScreen = () => {
           <TextInput
             placeholderTextColor={"#868686"}
             className="flex-1 color-black"
-            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6 }}
+            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6, color: "black" }}
             value={email}
             onChangeText={setEmail}
             placeholder="Eposta"
@@ -93,7 +93,7 @@ const RegisterScreen = () => {
           <TextInput
             placeholderTextColor={"#868686"}
             className="flex-1 color-black"
-            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6 }}
+            style={{ fontFamily: 'ClashGrotesk-Medium', fontSize: 19, marginHorizontal: 6, color: "black" }}
             value={password}
             onChangeText={setPassword}
             placeholder="Şifre"

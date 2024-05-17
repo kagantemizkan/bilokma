@@ -21,7 +21,7 @@ const SettingsScreen = () => {
 
   return (
     <View className="bg-white flex-1">
-      <Text style={{ fontFamily: 'ClashGrotesk-Semibold' }} className="text-[#fa5353] pl-7 text-5xl">Ayarlar</Text>
+      <Text style={{ fontFamily: 'ClashGrotesk-Semibold', marginTop: 32 }} className="text-[#fa5353] pl-7 text-5xl">Ayarlar</Text>
       <View className="border-[3px] rounded-3xl border-[#E6E6E6] py-4 mx-6 mt-10">
         <Pressable onPress={() => navigation.navigate("UserProfile")} className=" flex flex-row gap-8 pb-4 border-b-[3px] pl-4 border-[#E6E6E6]">
           <FontAwesome5 name="user-alt" size={28} color="black" />

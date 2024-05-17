@@ -48,7 +48,7 @@ export default function Support() {
 
     return (
         <View style={{ flex: 1, backgroundColor: "white" }}>
-            <View className="flex flex-row justify-between bg-white px-5 mb-10">
+            <View style={{ marginTop: 32 }} className="flex flex-row justify-between bg-white px-5 mb-10">
                 <Pressable onPress={handleBack} className="flex flex-row items-center">
                     <Ionicons name="chevron-back" size={44} color="#271B27" className="-ml-3" />
                     <Text style={{ fontFamily: "ClashGrotesk-Medium" }} className="text-3xl text-[#271B27] -ml-1">Geri</Text>

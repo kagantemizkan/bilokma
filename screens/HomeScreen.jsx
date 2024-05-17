@@ -28,7 +28,7 @@ export default function HomeScreen() {
     const convertCoordinatesToCity = async (latitude, longitude) => {
       try {
         const response = await fetch(
-          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${yourkeyhere}`
+          `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=AIzaSyCOwMmlEf95NH9VCJj7Ksb-4RIJZFruBu4`
         );
         const data = await response.json();
         const parts = data.results[0].formatted_address.split('/');
@@ -109,7 +109,7 @@ export default function HomeScreen() {
   const renderHeader = () => {
     return (
       <>
-        <Text style={{ fontFamily: 'ClashGrotesk-Medium' }} className="pl-7 text-4xl text-black">Merhaba,
+        <Text style={{ fontFamily: 'ClashGrotesk-Medium'  }} className="pl-7 text-4xl text-black">Merhaba,
           <Text style={{ fontFamily: 'ClashGrotesk-Semibold' }} className="text-[#fa5353]"> {kullaniciAd}</Text> 👋
         </Text>
         <View style={{ paddingHorizontal: 30, alignItems: 'center' }}>
@@ -166,7 +166,7 @@ export default function HomeScreen() {
     <View className="bg-white" style={{ flex: 1 }}>
       {isThereAnyData ? (
         <>
-          <Text style={{ fontFamily: 'ClashGrotesk-Medium' }} className="pl-7 text-4xl text-black">Merhaba,
+          <Text style={{ marginTop: 32, fontFamily: 'ClashGrotesk-Medium' }} className="pl-7 text-4xl text-black">Merhaba,
             <Text style={{ fontFamily: 'ClashGrotesk-Semibold' }} className="text-[#fa5353]"> {kullaniciAd}</Text> 👋
           </Text>
 
